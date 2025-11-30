@@ -143,31 +143,31 @@ jobs:
 ### Capturas de Pantalla del Proceso
 
 #### 1. Configuración de Seguridad en SonarCloud
-![Página de Security en SonarCloud](img/01-sonarcloud-security-page.png)
+![Página de Security en SonarCloud](img/01-sonarcloud-security-page.jpeg)
 *Página de Security en SonarCloud mostrando tokens de seguridad*
 
 #### 2. Análisis de Proyectos en SonarCloud
-![Página para analizar proyectos](img/02-sonarcloud-analyze-projects.png)
+![Página para analizar proyectos](img/02-sonarcloud-analyze-projects.jpeg)
 *Página para analizar proyectos en SonarCloud mostrando campos de configuración*
 
 #### 3. Proyecto Configurado para Análisis
-![Página de Analyze projects completada](img/03-sonarcloud-analyze-projects-filled.png)
+![Página de Analyze projects completada](img/03-sonarcloud-analyze-projects-filled.jpeg)
 *Página de Analyze projects con campos completados y proyecto listo para crear*
 
 #### 4. Configuración de Nuevo Código
-![Setup de nuevo código](img/04-sonarcloud-setup-new-code.png)
+![Setup de nuevo código](img/04-sonarcloud-setup-new-code.jpeg)
 *Página de configuración de nuevo código para el proyecto en SonarCloud*
 
 #### 5. Método de Análisis
-![Selección de método de análisis](img/05-sonarcloud-choose-analysis-method.png)
+![Selección de método de análisis](img/05-sonarcloud-choose-analysis-method.jpeg)
 *Página para elegir el método de análisis en SonarCloud con opciones de CI y manual*
 
 #### 6. GitHub Pages - Build and Deployment
-![GitHub Pages configuración](img/06-github-pages-build-deployment.png)
+![GitHub Pages configuración](img/06-github-pages-build-deployment.jpeg)
 *Página de GitHub Pages mostrando configuración de Build and deployment*
 
 #### 7. Living Documentation - Resultados de Pruebas
-![Living Documentation](img/07-living-documentation-test-results.png)
+![Living Documentation](img/07-living-documentation-test-results.jpeg)
 *Página de Living Documentation mostrando resultados de pruebas de Bank.Domain.Tests*
 
 ---
