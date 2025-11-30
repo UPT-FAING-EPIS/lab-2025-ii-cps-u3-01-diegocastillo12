@@ -136,3 +136,47 @@ jobs:
 
 ![image](https://github.com/UPT-FAING-EPIS/lab_ci_pruebas_01/assets/10199939/33266cc0-98e6-4585-a863-8cefd2748dab)
 
+---
+
+## RESULTADOS DEL DESARROLLO
+
+### Capturas de Pantalla del Proceso
+
+#### 1. Configuración de Seguridad en SonarCloud
+![Página de Security en SonarCloud](img/01-sonarcloud-security-page.png)
+*Página de Security en SonarCloud mostrando tokens de seguridad*
+
+#### 2. Análisis de Proyectos en SonarCloud
+![Página para analizar proyectos](img/02-sonarcloud-analyze-projects.png)
+*Página para analizar proyectos en SonarCloud mostrando campos de configuración*
+
+#### 3. Proyecto Configurado para Análisis
+![Página de Analyze projects completada](img/03-sonarcloud-analyze-projects-filled.png)
+*Página de Analyze projects con campos completados y proyecto listo para crear*
+
+#### 4. Configuración de Nuevo Código
+![Setup de nuevo código](img/04-sonarcloud-setup-new-code.png)
+*Página de configuración de nuevo código para el proyecto en SonarCloud*
+
+#### 5. Método de Análisis
+![Selección de método de análisis](img/05-sonarcloud-choose-analysis-method.png)
+*Página para elegir el método de análisis en SonarCloud con opciones de CI y manual*
+
+#### 6. GitHub Pages - Build and Deployment
+![GitHub Pages configuración](img/06-github-pages-build-deployment.png)
+*Página de GitHub Pages mostrando configuración de Build and deployment*
+
+#### 7. Living Documentation - Resultados de Pruebas
+![Living Documentation](img/07-living-documentation-test-results.png)
+*Página de Living Documentation mostrando resultados de pruebas de Bank.Domain.Tests*
+
+---
+
+## ENLACES DEL PROYECTO
+
+| Recurso | URL |
+|---------|-----|
+| **SonarCloud** | [https://sonarcloud.io/project/configuration?id=diegocastillo12_bancaapp](https://sonarcloud.io/project/configuration?id=diegocastillo12_bancaapp) |
+| **GitHub Pages** | [https://upt-faing-epis.github.io/lab-2025-ii-cps-u3-01-diegocastillo12/](https://upt-faing-epis.github.io/lab-2025-ii-cps-u3-01-diegocastillo12/) |
+| **Repositorio** | [https://github.com/UPT-FAING-EPIS/lab-2025-ii-cps-u3-01-diegocastillo12](https://github.com/UPT-FAING-EPIS/lab-2025-ii-cps-u3-01-diegocastillo12) |
+
